@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=netcan)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=netcan&hide=ipynb,html&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=beldon)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=beldon&hide=ipynb,html&layout=compact)
