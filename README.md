@@ -19,11 +19,3 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=beldon)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=beldon&hide=ipynb,html&layout=compact)
 
-
-<style>
-  body{
-  background-color: red;
-  
-  }
-      
-</style>  
